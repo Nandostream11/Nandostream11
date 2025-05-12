@@ -1,7 +1,7 @@
 # Hi there! I'm Anand
 
 ## 💫 About Me:
-I'm a Mechatronics Engineering student working on Legged Robot and Mobile Robots.<br>I'm looking forward to collaborating on Drone-based(Underwater) projects.<br>I'm looking for some help and guidance on the Integration of ML with Software Applications for the learning-based control of robots<br>
+I'm a Mechatronics Engineering student working on Legged Robots and Mobile Robots. I'm looking forward to collaborating on Drone-based(Underwater) projects. I'm looking for some help and guidance on the Integration of ML with Software Applications for the learning-based control of robots<br>
 
 🤖 Currently building **Legged Robots** and **Mobile Robots** for autonomous terrain traversal.  
 🚁 Actively exploring **Drone-based applications** and excited to collaborate on related projects.
