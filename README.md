@@ -28,3 +28,6 @@ I'm a Mechatronics Engineering student working on Legged Robots and Mobile Robot
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nandostream11&theme=radical&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandostream11&theme=radical&hide_border=false&layout=compact)
 
+# Blog posts
+<!-- When the use of Legged robots >> Wheeled robots -->
+
