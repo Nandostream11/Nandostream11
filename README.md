@@ -31,4 +31,9 @@ I have worked on Legged Robots and Mobile Robots. I'm looking forward to collabo
 - [High Time for Un-wheeled Robots?](https://medium.com/@anandvk113/wheels-revolutionized-how-humans-and-later-robots-moved-through-the-world-0f5c1f6c27a5)
 <!-- BLOG-POST-LIST:END -->
 <!-- When the use of Legged robots >> Wheeled robots -->
-
+<!--
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anandvardhanrbtics)
+[![X (Twitter)](https://img.shields.io/badge/X-%231DA1F2.svg?logo=X&logoColor=white)](https://x.com/ANANDV67213)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=reddit&logoColor=white)](https://www.reddit.com/user/Only-Avocado2400/?rdt=55579)
+-->
