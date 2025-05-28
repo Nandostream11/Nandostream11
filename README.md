@@ -1,4 +1,4 @@
-# Hi there! I'm Anand Vardhan
+# 👋Hi there! I'm Anand Vardhan
 
 ## 💫 About Me:
 I'm a Mechatronics Engineering student working on Legged Robots and Mobile Robots. I'm looking forward to collaborating on Drone-based(Underwater) projects. I'm looking for some help and guidance on the Integration of ML with Software Applications for the learning-based control of robots<br>
@@ -26,7 +26,6 @@ I'm a Mechatronics Engineering student working on Legged Robots and Mobile Robot
 
 ![](https://github-readme-stats.vercel.app/api?username=Nandostream11&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nandostream11&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandostream11&theme=radical&hide_border=false&layout=compact)
 
 # Blog posts
 <!-- When the use of Legged robots >> Wheeled robots -->
