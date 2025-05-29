@@ -32,7 +32,6 @@ I have worked on Legged Robots and Mobile Robots. I'm looking forward to collabo
 - [Wheels revolutionized how humans— and later robots — moved through the world.](https://medium.com/@anandvk113/wheels-revolutionized-how-humans-and-later-robots-moved-through-the-world-0f5c1f6c27a5?source=rss-ce41162e7528------2)
 <!-- BLOG-POST-LIST:END -->
 
-<!--- [Wheels revolutionized how humans— and later robots — moved through the world.](https://medium.com/@anandvk113/wheels-revolutionized-how-humans-and-later-robots-moved-through-the-world-0f5c1f6c27a5?source=rss-ce41162e7528------2)-->
 
 <!-- When the use of Legged robots >> Wheeled robots -->
 <!--
