@@ -27,7 +27,7 @@ I have worked on Legged Robots and Mobile Robots. I'm looking forward to collabo
 ![](https://github-readme-stats.vercel.app/api?username=Nandostream11&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nandostream11&theme=radical&hide_border=false)  
 
-# Blog posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Wheels revolutionized how humans— and later robots — moved through the world.](https://medium.com/@anandvk113/wheels-revolutionized-how-humans-and-later-robots-moved-through-the-world-0f5c1f6c27a5?source=rss-ce41162e7528------2)
 <!-- BLOG-POST-LIST:END -->
