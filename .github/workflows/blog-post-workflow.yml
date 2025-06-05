@@ -1,7 +1,11 @@
 name: Latest blog post workflow
 on:
-  schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour, on the hour
+  schedule:
+    - cron: '0 4 * * *'   # Runs at 04:00 UTC daily
+    - cron: '0 0 */2 * *' # Runs at 00:00 UTC every 2 days
+# on:
+#   schedule: # Run workflow automatically
+#     - cron: '0 * * * *' # Runs every hour, on the hour
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
 permissions:
   contents: write # To write the generated contents to the readme
@@ -16,6 +20,4 @@ jobs:
       - name: Pull in medium.com posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: 
-              "https://medium.com/feed/@anandvk113",
-              "https://nandostream11.github.io/"
+          feed_list: "https://medium.com/feed/@anandvk113"
