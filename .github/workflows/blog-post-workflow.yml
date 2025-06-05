@@ -20,4 +20,6 @@ jobs:
       - name: Pull in medium.com posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://medium.com/feed/@anandvk113"
+          feed_list: >-
+            https://medium.com/feed/@anandvk113,
+            https://nandostream11.github.io/feed
