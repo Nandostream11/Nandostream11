@@ -1,8 +1,7 @@
 name: Latest blog post workflow
 on:
   schedule:
-    - cron: '0 4 * * *'   # Runs at 04:00 UTC daily
-    - cron: '0 0 */2 * *' # Runs at 00:00 UTC every 2 days
+    - cron: '0 0 */6 * *' # Runs at 00:00 UTC every 6 days
 # on:
 #   schedule: # Run workflow automatically
 #     - cron: '0 * * * *' # Runs every hour, on the hour
@@ -20,4 +19,4 @@ jobs:
       - name: Pull in medium.com posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://medium.com/feed/@anandvk113,https://nandostream11.github.io/feed.xml"    #"https://medium.com/feed/@anandvk113"    
+          feed_list: "https://medium.com/feed/@anandvk113"    #"https://medium.com/feed/@anandvk113,https://nandostream11.github.io/feed.xml"    #
