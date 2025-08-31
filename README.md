@@ -29,6 +29,7 @@ I have worked on Legged Robots and Mobile Robots. I'm looking forward to collabo
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Indian Robotics Startups in 2025- What’s Brewing in the Land of Innovation?](https://medium.com/@anandvk113/indian-robotics-startups-in-2025-whats-brewing-in-the-land-of-innovation-f7ddf868df68?source=rss-ce41162e7528------2)
 - [Beneath Pressure- Why Underwater Robotics Is the Final Engineering Frontier](https://medium.com/@anandvk113/beneath-pressure-why-underwater-robotics-is-the-final-engineering-frontier-8679664a71e9?source=rss-ce41162e7528------2)
 - [Resurrecting a Hard Drive: From Cyclic Redundancy Errors to GRUB and Beyond](https://medium.com/@anandvk113/resurrecting-a-hard-drive-from-cyclic-redundancy-errors-to-grub-and-beyond-944cea2046b4?source=rss-ce41162e7528------2)
 - [Wheels revolutionized how humans— and later robots — moved through the world.](https://medium.com/@anandvk113/wheels-revolutionized-how-humans-and-later-robots-moved-through-the-world-0f5c1f6c27a5?source=rss-ce41162e7528------2)
