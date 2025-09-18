@@ -20,11 +20,6 @@ I have worked on Legged Robots and Mobile Robots. I'm looking forward to collabo
 ---
 <!-- <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"> -->
 
-### 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Nandostream11&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nandostream11&theme=radical&hide_border=false)  
----
 [Portfolio](https://nandostream11.github.io)
 
 ### Blog posts
