@@ -9,7 +9,7 @@ I have worked on Legged Robots and Mobile Robots. I'm looking forward to collabo
 🧠 Learning to integrate **Machine Learning** into robotic control systems for adaptive and intelligent behavior.  
 🔧 Always working on real-world robotics projects with an aim to push boundaries in autonomous systems.-->
 
-- 🤖 Currently building **Legged Robots** and **Mobile Robots** for autonomous terrain traversal
+- 🤖 Currently building **Autonomous Vehicles** in-the-air and exploring **Robots** sub-surface
 - 🚁 Actively exploring **Drone-based applications** and excited to collaborate on related projects
 - 🧠 Learning to integrate **Machine Learning** into robotic control systems for adaptive and intelligent behavior
 - 🔧 Always working on real-world robotics projects with an aim to push boundaries in autonomous systems
